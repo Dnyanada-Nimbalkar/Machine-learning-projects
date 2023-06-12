@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi👋 I'm Dnyanada Nimbalkar
+
+- 🔭 I’m currently working on kaggle competitons
+- 🌱 I’m currently learning data science and deep learning
 
 <!--
 **Dnyanada-Nimbalkar/Dnyanada-Nimbalkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
